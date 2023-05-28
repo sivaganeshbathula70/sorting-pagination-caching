@@ -10,3 +10,6 @@ Here we have done sorting based on field name.
 ![Screenshot (67)](https://github.com/sivaganeshbathula70/sorting-pagination-caching/assets/60910411/c38d6803-5e9e-4ee5-a404-26367c4aa28f)
 Sorting based on field age
 ![Screenshot (68)](https://github.com/sivaganeshbathula70/sorting-pagination-caching/assets/60910411/4005dfa7-23a4-4962-ad4f-c4034bcd3b57)
+
+
+![Screenshot (69)](https://github.com/sivaganeshbathula70/sorting-pagination-caching/assets/60910411/c099bad5-158c-4197-998c-50ca7bcdfd1a)
